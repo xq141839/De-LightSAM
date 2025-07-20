@@ -51,12 +51,12 @@ De-LightSAM
 We provide all pre-trained models here.
 | MA-Backbone | MC | Checkpoints |
 |-----|------|-----|
-|TinyViT| Dermoscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=dLxPsT)|
-|TinyViT| X-ray | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=dLxPsT)|
-|TinyViT| Fundus | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=dLxPsT)|
-|TinyViT| Colonoscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=dLxPsT)|
-|TinyViT| Ultrasound | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=dLxPsT)|
-|TinyViT| Microscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=dLxPsT)|
+|TinyViT| Dermoscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=eE3ogX)|
+|TinyViT| X-ray | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=eE3ogX)|
+|TinyViT| Fundus | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=eE3ogX)|
+|TinyViT| Colonoscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=eE3ogX)|
+|TinyViT| Ultrasound | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=eE3ogX)|
+|TinyViT| Microscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=eE3ogX)|
 
 ## 📜Citation
 If you find this work helpful for your project, please consider citing the following paper:
