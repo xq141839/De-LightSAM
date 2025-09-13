@@ -51,12 +51,12 @@ De-LightSAM
 We provide all pre-trained models here.
 | MA-Backbone | MC | Checkpoints |
 |-----|------|-----|
-|TinyViT| Dermoscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=eE3ogX)|
-|TinyViT| X-ray | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=eE3ogX)|
-|TinyViT| Fundus | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=eE3ogX)|
-|TinyViT| Colonoscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=eE3ogX)|
-|TinyViT| Ultrasound | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=eE3ogX)|
-|TinyViT| Microscopy | [Link](https://nottinghamedu1-my.sharepoint.com/:f:/g/personal/scxqx1_nottingham_edu_cn/EpOiC2oi8eFFuUqCK_JlSD0BKCn0oHYsVW83sg-fzZUx6w?e=eE3ogX)|
+|TinyViT| Dermoscopy | [Link](https://drive.google.com/file/d/1kikT1Sjp6TBJQqBJgM80dP2nSTf2PpJM/view?usp=sharing)|
+|TinyViT| X-ray | [Link](https://drive.google.com/file/d/1kikT1Sjp6TBJQqBJgM80dP2nSTf2PpJM/view?usp=sharing)|
+|TinyViT| Fundus | [Link](https://drive.google.com/file/d/1kikT1Sjp6TBJQqBJgM80dP2nSTf2PpJM/view?usp=sharing)|
+|TinyViT| Colonoscopy | [Link](https://drive.google.com/file/d/1kikT1Sjp6TBJQqBJgM80dP2nSTf2PpJM/view?usp=sharing)|
+|TinyViT| Ultrasound | [Link](https://drive.google.com/file/d/1kikT1Sjp6TBJQqBJgM80dP2nSTf2PpJM/view?usp=sharing)|
+|TinyViT| Microscopy | [Link](https://drive.google.com/file/d/1kikT1Sjp6TBJQqBJgM80dP2nSTf2PpJM/view?usp=sharing)|
 
 ## 📜Citation
 If you find this work helpful for your project, please consider citing the following paper:
