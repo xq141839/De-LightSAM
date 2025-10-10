@@ -6,7 +6,11 @@
 
 
 <div align="center">
-    <img width="100%" alt="De-LightSAM overview" src="framework.png"/>
+    <img width="100%" alt="De-LightSAM overview" src="fig_method.png"/>
+</div>
+
+<div align="center">
+    <img width="100%" alt="De-LightSAM overview" src="fig_method_kd.png"/>
 </div>
 
 ## 📰News
