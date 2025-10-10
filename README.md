@@ -1,4 +1,4 @@
-# De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation
+# TCSVT 2025 | De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation
 
 :pushpin: This is an official PyTorch implementation of **De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation**
 
@@ -10,6 +10,8 @@
 </div>
 
 ## 📰News
+
+**[2025.10.11]** The article has been accepted by: IEEE Transactions on Circuits and Systems for Video Technology.
 
 **[2024.08.08]** The pre-print paper has been uploaded!
 
