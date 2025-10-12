@@ -67,10 +67,10 @@ We provide all pre-trained models here.
 ## 📜Citation
 If you find this work helpful for your project, please consider citing the following paper:
 ```
-@article{xu2024esp,
-  title={ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation},
-  author={Xu, Qing and Li, Jiaxuan and He, Xiangjian and Liu, Ziyu and Chen, Zhen and Duan, Wenting and Li, Chenxin and He, Maggie M and Tesema, Fiseha B and Cheah, Wooi P and others},
-  journal={arXiv preprint arXiv:2407.14153},
-  year={2024}
+@article{xu2024delight,
+  title={De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation}, 
+  author={Qing Xu and Jiaxuan Li and Xiangjian He and Chenxin Li and Fiseha B. Tesem and Wenting Duan and Zhen Chen and Rong Qu and Jonathan M. Garibaldi and Chang Wen Chen},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2025}
 }
 ```
